@@ -1,0 +1,6 @@
+print(4 < 5.3)
+print("abc" > "Abc")
+print(ord("a"))
+print(ord("A"))
+print(ord("Ą"))
+print(ord("ą"))
